@@ -108,7 +108,7 @@ Routing
 -Selector
 
 # Testing
--Unit test
+-Unit test-Resting Individual component
 -Integration Test
 -End to End  Testing -e2e testing
 
@@ -123,3 +123,4 @@ Routing
 -Install @babel/preset-react to make jsx work in test cases
 -Include @babel/preset-react inside babel configuration
 -Install @testing-library/jest-dom
+
